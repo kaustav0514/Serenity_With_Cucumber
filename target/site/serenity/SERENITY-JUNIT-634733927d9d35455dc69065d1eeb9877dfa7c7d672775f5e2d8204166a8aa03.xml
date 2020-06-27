@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.serenity.webelements.htmltable.HTMLTableTest" skipped="0" tests="1" time="13.44" timestamp="2020-06-21 01:17:08"><testcase classname="com.serenity.webelements.htmltable.HTMLTableTest" name="Tc1"><failure message="Expecting a table with at least one row where: [First Name 'Frankii']" type="java.lang.AssertionError">Expecting a table with at least one row where: [First Name 'Frankii']</failure><system-err>Expecting a table with at least one row where: [First Name 'Frankii']&#13;
+com.serenity.webelements.htmltable.HTMLTablePage.assertvalue(HTMLTablePage.java:118)&#13;
+com.serenity.webelements.htmltable.HTMLTableTest.tc1(HTMLTableTest.java:33)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
