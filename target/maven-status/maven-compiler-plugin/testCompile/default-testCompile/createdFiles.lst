@@ -1,0 +1,4 @@
+com\jpetstore\cucumber\steps\OrdersPageSteps.class
+com\jpetstore\cucumber\steps\serenity\PetStoreSteps.class
+com\jpetstore\cucumber\steps\UserRegistrationSteps.class
+com\jpetstore\cucumber\UserRegistrationRunner.class

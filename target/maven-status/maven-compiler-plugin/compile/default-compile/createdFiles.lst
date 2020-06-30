@@ -1,0 +1,10 @@
+com\jpetstore\Pages\LoginPage.class
+com\jpetstore\Pages\OrdersPage.class
+com\jpetstore\Pages\HelpPage.class
+com\jpetstore\Pages\ProductsPage.class
+com\jpetstore\Pages\DashBoardPage.class
+com\jpetstore\Pages\BasePage.class
+com\jpetstore\Pages\DashBoardPage$1.class
+com\jpetstore\Util\PetCategories.class
+com\jpetstore\Pages\AccountsPage.class
+com\jpetstore\Pages\BasePage$1.class
